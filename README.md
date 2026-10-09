@@ -32,7 +32,7 @@ I am a passionate developer with a strong foundation in backend and full-stack w
 | Microminds | Decentralized micro-API marketplace for AI agents with escrow on Monad. | Backend, Monad |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grace488&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grace488&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grace488&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
